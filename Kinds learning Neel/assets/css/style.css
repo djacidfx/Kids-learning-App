@@ -1,0 +1,216 @@
+/*============================================================
+* Template Name    : Disha - Multipurpose One Page Html Template
+* Author           : Vishal Lad
+* Version          : 1.0
+* Created          : 28/Apr/2020;
+* File Description : Main CSS file of the template
+===========================================================*/
+
+body {
+    system: additive;
+    color: #000;
+    font-family: 'Open Sans', sans-serif;
+    background-color: #fff;
+    font-weight: normal;
+    font-size: 16px;
+}
+*{margin:0px;padding:0px;}
+ul{margin:0px;padding:0px;}
+ul li{list-style-type:none;}
+h6{
+	margin:20px 0;
+}
+img{
+	width: 100%;
+	max-width: 100%;
+}
+/*---------------------Aw-documentation--------------------*/
+
+.aw-documentation{
+    margin-left: 5%;
+}
+
+#js-structure h2{
+    color: #FF5248;
+}
+#js-structure h6{
+    color: #fff;
+    letter-spacing: 4px;
+}
+#js-structure img{
+    
+    width: 95%;
+
+}
+#js-structure1 img{
+    
+    width: 95%;
+
+}
+.unimg{
+    width: 56%;
+}
+.fresh h2{
+    color: #fff;
+}
+
+#total-files h2{
+    color: #FF5248;
+}
+#total-files img{
+    width: 95%;
+}
+
+#support img{
+    width: 95%;
+}
+#step6 img{
+    width: 95%;
+}
+
+
+.aw-documentation-section {
+    margin-left: 250px;
+    padding: 0 30px;
+}
+strong{
+	color:#ff0000;
+}
+.aw-documentation-section h6 {
+    font-size: 16px;
+}
+.aw-documentation-section li {
+    font-size: 16px;
+    list-style-type: square;
+    margin-left: 15px;
+    line-height: 18px;
+    margin-bottom: 10px;
+}
+#navigation {
+    background-color: #404040;
+    border: medium none;
+    border-radius: 0;
+    position: fixed;
+    top: 0px;
+    width: 19%;
+    z-index: 1;
+    min-height: 750px;
+    height: 100%;
+    margin-left: -5%;
+}
+#navigation .menu li > a {
+    color: #fff;
+    display: block;
+    font-size: 13px;
+    line-height: 16px;
+    padding: 10px;
+    position: relative;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+#navigation .menu li {
+	transition:all 300ms ease-in-out;
+	border-bottom:1px solid #e5e5e5;
+ }
+ #navigation .menu li.active {
+    background: #e5e5e5 none repeat scroll 0 0;
+}
+#navigation .menu li:hover {
+    background: #e5e5e5 none repeat scroll 0 0;
+}
+#navigation .menu li.active a,#navigation .menu li:hover a{
+    color:#ea4c23;
+	text-decoration:none;
+ }
+#navigation ul.menu {
+    float: left;
+    width: 100%;
+}
+ #navigation .navbar-header {
+    float: left;
+    width: 100%;
+    background: #f7f7f7;
+    margin-bottom: 70px;
+}
+#navigation .navbar-header a {
+    background-repeat: no-repeat;
+    float: left;
+    padding: 38px 0;
+    text-align: center;
+    width: 100%;
+    font-size: 28px;
+    color: #666;
+    text-decoration: none;
+    font-style: italic;
+    font-family: "Warnock Pro", "Goudy Old Style","Palatino","Book Antiqua", Georgia, serif;
+}
+.aw-document-copyright {
+    color: #ffffff;
+    font-size: 13px;
+    text-align: center;
+    bottom: 0;
+    position: fixed;
+    width: 240px;
+    left: 0;
+	padding: 20px 5px;
+}
+.aw-documentation-section .folder-name{
+	margin:15px 0;
+	font-size:20px;
+	font-weight:bold;
+	color:#000;
+}
+.aw-documentation-section .sub-ul{
+	margin-top:15px;
+}
+.aw-documentation-section h2, .aw-documentation-section h1 {
+    color: #000000;
+    font-size: 30px;
+    font-weight: 700;
+}
+.aw-documentation-section h2 {
+    color: #FF5248;
+    font-size: 24px;
+    font-weight: 700;
+}
+#total-files p {
+    line-height: 26px;
+}
+.aw-documentation-section h4 {
+    color: #333333;
+    font-size: 20px;
+}
+.aw-documentation-section hr {
+    border-color: #000000;
+    margin: 10px 0;
+}
+.aw-documentation-section ul {
+    margin: 20px 0 20px;
+}
+.aw-documentation-section #support{
+    width: 100%;
+    float: left;
+}
+
+#css-structure h2{
+    color: #FF5248;
+}
+
+#css-structure img{
+    width: 61%;
+}
+
+.aw-documentation-section .coman-sec {
+    padding:30px 0;
+}
+#total-files li {
+  margin-left: 50px;
+}
+img {
+    margin-bottom: 22px;
+	margin-top: 22px;
+}
+
+p {
+  line-height: 1.5;
+}
